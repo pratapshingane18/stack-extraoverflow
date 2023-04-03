@@ -1,3 +1,4 @@
-React App:
+<h3> React App: </h3>
 
-Clone Stack Overflow
+
+<h1> Clone Stack Overflow </h1>
